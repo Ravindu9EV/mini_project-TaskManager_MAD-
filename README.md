@@ -14,7 +14,12 @@ TaskNoteApp is a simple Android application for managing personal tasks and note
 - ✅ Input validation for security
 
 ## Screenshots
-[Screenshots would be inserted here]
+
+<img width="1915" height="1072" alt="image" src="https://github.com/user-attachments/assets/92b9bbd7-9cf5-44bd-9ae3-d49611bd6102" />
+
+-----------------------
+
+<img width="1918" height="1075" alt="image" src="https://github.com/user-attachments/assets/9cfbbf38-5f81-4fbe-b0c5-d96b1b3eb71b" />
 
 ## Technical Implementation
 
@@ -42,13 +47,8 @@ TaskNoteApp is a simple Android application for managing personal tasks and note
 5. **Clear UI Hierarchy**: Easy navigation between screens
 
 ## Secure Coding Practices Implemented
-<img width="1915" height="1072" alt="image" src="https://github.com/user-attachments/assets/92b9bbd7-9cf5-44bd-9ae3-d49611bd6102" />
 
 
-----
-<img width="1918" height="1075" alt="image" src="https://github.com/user-attachments/assets/9cfbbf38-5f81-4fbe-b0c5-d96b1b3eb71b" />
-
-## Screen Shots 
 
 ### 1. Input Validation
 All user inputs are validated before processing:
